@@ -1,0 +1,27 @@
+﻿  HW3.cpp
+D:\Program Files\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(54,31): warning C4244: '-=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(82,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(90,74): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(107,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(108,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(109,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(138,63): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(153,49): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(167,106): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(168,31): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(218,11): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(219,20): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(233,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(241,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(388,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(487,66): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(488,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(489,80): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(505,72): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(506,87): warning C4305: 'argument': truncation from 'double' to 'float'
+  HW3.vcxproj -> D:\Repos\C++\ADIP_Homeworks\HW3\HW3\x64\Debug\HW3.exe

@@ -1,0 +1,59 @@
+﻿  Source.cpp
+D:\Program Files\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(64,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(64,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(69,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(71,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(82,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(82,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(91,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(97,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(97,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(98,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(100,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(100,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(101,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(105,50): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(114,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(120,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(122,22): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(151,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(151,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(156,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(158,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(175,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(176,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(182,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(183,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(196,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(196,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(202,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(204,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(213,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(214,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(215,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(221,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(221,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(221,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(221,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(227,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(229,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(230,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(240,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(241,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(247,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(247,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(247,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(247,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(294,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(361,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(377,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(377,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(391,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(453,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(457,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(461,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(461,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(462,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(462,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HW2_Project.vcxproj -> D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\x64\Debug\HW2_Project.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Program Files\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Repos\C++\adipHw\hw1\code\hw1\hw1\Source.cpp(228,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\adipHw\hw1\code\hw1\hw1\Source.cpp(67): warning C4715: 'splitBlock': not all control paths return a value
+  hw1.vcxproj -> D:\Repos\C++\adipHw\hw1\code\hw1\x64\Debug\hw1.exe

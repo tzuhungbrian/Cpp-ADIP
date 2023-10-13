@@ -1,0 +1,20 @@
+﻿  Image.cpp
+  The contents of <numbers> are available only with C++20 or later.
+D:\Program Files\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(41,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(52,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(60,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(104,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(105,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(108,26): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(273,25): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(307,25): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(335,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(425,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW5\HW5\Image.cpp(461,25): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+  Generating code
+  0 of 420 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HW5.vcxproj -> D:\Repos\C++\ADIP_Homeworks\HW5\x64\Release\HW5.exe

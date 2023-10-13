@@ -1,0 +1,43 @@
+﻿  HW3.cpp
+D:\Program Files\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(93,31): warning C4244: '-=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(121,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(129,74): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(146,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(147,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(148,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(177,63): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(192,49): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(206,106): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(207,31): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(262,11): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(276,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(284,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(309,25): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(416,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(527,66): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(528,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(529,80): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(546,73): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(547,81): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(570,77): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(571,85): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(589,87): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(590,95): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(610,87): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(614,64): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(615,68): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(616,78): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(637,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(638,73): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW3\HW3\HW3\HW3.cpp(639,77): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  5 of 296 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HW3.vcxproj -> D:\Repos\C++\ADIP_Homeworks\HW3\HW3\x64\Release\HW3.exe

@@ -1,0 +1,81 @@
+﻿  Source.cpp
+D:\Program Files\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(106,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(106,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(111,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(113,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(124,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(124,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(133,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(140,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(140,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(141,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(143,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(143,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(144,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(148,50): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(157,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(163,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(165,22): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(189,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(189,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(194,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(196,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(215,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(216,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(222,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(223,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(245,61): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(279,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(377,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(377,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(378,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(378,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(379,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(379,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(429,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(434,74): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(434,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(434,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(437,78): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(441,79): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(444,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(444,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(445,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(445,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(446,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(446,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(466,67): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(466,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(466,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(469,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(473,72): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(476,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(476,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(477,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(477,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(478,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(478,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(499,66): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(499,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(499,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(502,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(506,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(509,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(509,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(510,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(510,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(511,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(511,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(576,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(576,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(623,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(623,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(637,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\HW2_Project\Source.cpp(637,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 118 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HW2_Project.vcxproj -> D:\Repos\C++\ADIP_Homeworks\HW2\Code\HW2_Project\x64\Release\HW2_Project.exe
